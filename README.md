@@ -7,5 +7,5 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/earnings-calculator.git
+   git clone https://github.com/Halip26/online-food-website.git
    cd earnings-calculator
